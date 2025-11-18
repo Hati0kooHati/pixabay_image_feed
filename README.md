@@ -1,16 +1,5 @@
 # pixabay_image_feed
 
-A new Flutter project.
+![Recording 2025-11-17 204052](https://github.com/user-attachments/assets/732c697c-3af5-4d6d-8f20-b14a30b5720f)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Recording 2025-11-17 204309](https://github.com/user-attachments/assets/f072a78f-dde1-4c6d-963c-e78835169be0)
